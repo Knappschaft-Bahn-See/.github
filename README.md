@@ -1,2 +1,2 @@
 # .github
-KBS Overview Repo
+Knappschaft-Bahn-See Organisation
